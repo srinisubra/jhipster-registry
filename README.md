@@ -1,6 +1,7 @@
 # JHipster Registry
 
-[![Build Status][travis-image]][travis-url]  [![Docker Pulls](https://img.shields.io/docker/pulls/jhipster/jhipster-registry.svg)](https://hub.docker.com/r/jhipster/jhipster-registry/)
+[![Build Status][travis-image]][travis-url] [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsrinisubra%2Fjhipster-registry.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsrinisubra%2Fjhipster-registry?ref=badge_shield)
+ [![Docker Pulls](https://img.shields.io/docker/pulls/jhipster/jhipster-registry.svg)](https://hub.docker.com/r/jhipster/jhipster-registry/)
 
 This is the [JHipster](http://www.jhipster.tech/) registry service, based on [Spring Cloud Netflix](http://cloud.spring.io/spring-cloud-netflix/), [Eureka](https://github.com/Netflix/eureka) and [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/).
 
@@ -25,3 +26,7 @@ To run the cloned repository;
 
 [travis-image]: https://travis-ci.org/jhipster/jhipster-registry.svg?branch=master
 [travis-url]: https://travis-ci.org/jhipster/jhipster-registry
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsrinisubra%2Fjhipster-registry.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsrinisubra%2Fjhipster-registry?ref=badge_large)
